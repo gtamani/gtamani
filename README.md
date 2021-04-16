@@ -1,4 +1,20 @@
-### Hi there 👋
+### Hi there 👋, I'm Giuliano Tamani! ⚜️
+<p><em> An argentinian  coder living in Valencia, Spain.   </br>
+  Also, I'm accountant and musician! 💻🎵</br>
+  Here's some info about me  ⏬</em>
+</p>
+
+
+```python
+gtamani = {"using": {"Python" : ["Numpy","Matplotlib","Pandas","Selenium","Tkinter","Scipy","Seaborn","Django"],
+                     "Websites" : ["Javascript","CSS","HTML","PHP"]},                      
+           "learning": ["Tensorflow","MySQL"]}
+```
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gtamani)](https://github.com/anuraghazra/github-readme-stats) <img  src="https://media.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif" width="194">
+
+If you wan't to know more about me, check out my <a href="http://www.gtamani.com">website</a>.
+
+
 
 <!--
 **gtamani/gtamani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
