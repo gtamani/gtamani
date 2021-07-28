@@ -6,13 +6,13 @@
 
 
 ```python
-gtamani = {"using": {"Python" : ["Numpy","Matplotlib","Pandas","Selenium","Tkinter","Scipy","Seaborn"],
-                     "Websites" : ["Javascript","CSS","HTML","PHP","MySQL"]},                      
-           "learning": ["Django","VueJS"]}
+gtamani = {"using": {"Python" : ["Django","Numpy","Matplotlib","Pandas","Selenium","Tkinter","Scipy","Seaborn"],
+                     "Websites" : ["VueJS","Javascript","CSS","HTML","PosgreSQL"]},                      
+           "learning": ["Typescript","React"]}
 ```
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gtamani)](https://github.com/anuraghazra/github-readme-stats) <img  src="https://media.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif" width="194">
 
-If you wan't to know more about me, check out my <a href="http://www.gtamani.com">website</a>.
+If you wan't to know more about me, check out my <a href="http://projects.gtamani.com/">website</a>.
 
 
 
