@@ -6,9 +6,12 @@
 
 
 ```python
-gtamani = {"using": {"Python" : ["Django","Numpy","Matplotlib","Pandas","Selenium","Tkinter","Scipy","Seaborn"],
-                     "Websites" : ["VueJS","Javascript","CSS","HTML","PosgreSQL"]},                      
-           "learning": ["Typescript","React"]}
+gtamani['hard_skills'] = {
+  "backend" : {"python" : ["django", "flask"],
+              'ddbb' : ['postgresql', 'mySQL', 'redis']},
+  "frontend" : ["vuejs","javascript","css","html"],
+  "others" : ['linux', 'docker', 'git']
+ }
 ```
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gtamani)](https://github.com/anuraghazra/github-readme-stats) <img  src="https://media.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif" width="194">
 
