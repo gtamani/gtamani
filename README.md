@@ -7,10 +7,11 @@
 
 ```python
 gtamani['hard_skills'] = {
-  "backend" : {"python" : ["django", "flask"],
-              'ddbb' : ['postgresql', 'mySQL', 'redis']},
-  "frontend" : ["vuejs","javascript","css","html"],
-  "others" : ['linux', 'docker', 'git']
+  'backend' : ['django', 'flask'],
+  'ddbb' : ['postgresql', 'my_sql', 'redis', 'mongo_db'],
+  'frontend' : ['vue.js', 'nuxt.js', 'javascript', 'css', 'html'],
+  'cloud' : 'aws',
+  'others' : ['linux', 'docker', 'git']
  }
 ```
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gtamani)](https://github.com/anuraghazra/github-readme-stats) <img  src="https://media.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif" width="194">
